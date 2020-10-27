@@ -1,0 +1,20 @@
+{
+    "Author": "William (Microsoft)",
+    "ContentSize": 5542,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/sql-alwayson-with-windows-2012-r2-storage-spaces/master/2012_R2_Cluster_StoragePool.ps1",
+    "DownloadCount": 1027,
+    "Id": "Sql-Alwayson-Windows-2012-916c7387",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 478,
+    "RaterCount": 3,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-3-17T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "In 2012 R2 with the cluster feature enabled any storage space objects created from will be automatically clustered by default.\u00a0This example script will:Turn off the automatic clustering of spaces Build a simple space out of any locally attached pool(able) disks",
+    "Title": "Sql Alwayson with Windows 2012 R2 Storage Spaces",
+    "UpdatedDate": "2015-3-19T00:00:00",
+    "Url": "https://github.com/azureautomation/sql-alwayson-with-windows-2012-r2-storage-spaces",
+    "UserTags": "SQL Server, Microsoft Azure, AlwaysOn"
+}
